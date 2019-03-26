@@ -19,6 +19,4 @@ pip install image
 
 The image package is a dependancy of PIL (Python Imaging Library) and numpy is used to compute averages.
 
-
-
-
+To run the CLI help command run `python ascii.py -h` otherwise to run the program with it's required params run `python ascii.py --file image.jpg`
